@@ -37,7 +37,7 @@ Projects include organizing data, uncovering patterns, deriving insights, and cl
 
 ## Authors
 
-* **[Mohamed Lamouchi](https://github.com/Lamouchi007)**
+* **[Mohamed Lamouchi](https://github.com/mohamedlamouchi)**
 * [Udacity](https://www.udacity.com/)
 
 
