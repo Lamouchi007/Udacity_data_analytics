@@ -15,7 +15,7 @@ The following topics are covered in depth:
 
 ### Certificate of Completion
 
-![Udacity Nanodegree Certificate Data Analyst](Certificate_Nanodegree-Data_Analyst.jpg?raw=true "Udacity Nanodegree Certificate Data Analyst")
+![Udacity Nanodegree Certificate Data Analyst]([Certificate_Nanodegree-Data_Analyst.jpg?raw=true "Udacity Nanodegree Certificate Data Analyst"](https://confirm.udacity.com/DDGXAJFQ))
 
 
 ## Projects
